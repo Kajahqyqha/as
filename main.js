@@ -13,28 +13,6 @@ const daftarVideo = [
     "https://cdn.sliceedrive.fun/videos/vV136AuG9.mp4",
     "https://cdn.sliceedrive.fun/videos/GieUdcMPH.mp4",
     "https://cdn.sliceedrive.fun/videos/ZP12JuJOU.mp4",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
     "https://cdn.aceimg.com/PApiu0PQV.mp4",
     "https://cdn.aceimg.com/mOopwVR9E.mp4",
     "https://cdn2.videy.co/Ik2BVvSs1.mp4",
@@ -96,7 +74,7 @@ if (video) {
         setTimeout(() => {
 
             window.open(
-                "https://s.shopee.co.id/50Yz61qMVv",
+                "https://s.shopee.co.id/1qc6pmzZHW",
                 "_blank"
             );
 
